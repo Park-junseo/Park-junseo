@@ -20,6 +20,13 @@
 
 ---
 
+## 🌐 포트폴리오
+
+📘 **Notion Portfolio**  
+[https://palm-red-c5a.notion.site/145f8efc41568090aa00c46927826478](https://palm-red-c5a.notion.site/145f8efc41568090aa00c46927826478)
+
+---
+
 ## 🛠 Tech Stack
 
 | 분야 | 기술 스택 |
