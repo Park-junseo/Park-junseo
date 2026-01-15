@@ -57,6 +57,7 @@
 ### ☕ 카페 마케팅 플랫폼
 > **마이크로서비스 아키텍처 / CDC 데이터 파이프라인 / 실시간 멀티플레이어 동기화**
 
+git 링크: [https://github.com/Park-junseo/mecipe-was-repo](https://github.com/Park-junseo/mecipe-was-repo)
 - **Nx 모노레포** 기반 마이크로서비스 아키텍처 설계 및 구현
 - **CDC(Change Data Capture) 파이프라인** 구축: PostgreSQL → Debezium → Kafka → KSQLDB → Elasticsearch
 - **Elasticsearch**를 활용한 고성능 카페 검색 기능 구현
@@ -71,6 +72,7 @@
 - **Nginx + Certbot**: HTTPS 자동 인증서 발급 및 리버스 프록시 구성
 
 ### 🌐 WebGL 및 VR 콘텐츠 플랫폼
+git 링크: [https://github.com/Newinderstudio/WebClient-Mecipe](https://github.com/Newinderstudio/WebClient-Mecipe)
 > **Unity 및 Three.js / 성능 최적화 / 가상공간 서비스 구현**
 
 - Unity 기반 콘텐츠를 **Three.js / WebGL**로 재구현하여 웹 기반 서비스화  
