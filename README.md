@@ -23,7 +23,7 @@
 ## 🌐 포트폴리오
 
 📘 **Notion Portfolio**  
-👋 안녕하세요, 박준서입니다!
+👋 안녕하세요. 서비스 개발을 사랑하는 엔지니어, 박준서입니다!
 
 > 기술로 세상을 연결하고, 서비스의 가치를 높이는 개발자입니다.  
 > 프론트엔드와 백엔드를 아우르며, 확장 가능하고 효율적인 아키텍처를 지향합니다.
@@ -48,8 +48,8 @@
 ## 🌐 포트폴리오
 
 📘 **Notion Portfolio**  
-[노션 직접 페이지](https://palm-red-c5a.notion.site/145f8efc41568090aa00c46927826478)
-[노션 기반 블로그](https://park-junseo.vercel.app/)
+- [노션 직접 페이지](https://palm-red-c5a.notion.site/145f8efc41568090aa00c46927826478)
+- [노션 기반 블로그](https://park-junseo.vercel.app/)
 
 ---
 
